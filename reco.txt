@@ -1,0 +1,15 @@
+Reconnaisance is the practice of covertly discovering and collecting information about a system.
+Like many cybersecurity terms, reconnaissance derives from military language, where it refers to
+ a mission with the goal of obtaining information from enemy territory. 
+
+There are two main types of reconnaissance: active and passive reconnaissance. 
+
+With active reconnaissance, hackers interact directly with the computer system and 
+attempt to obtain information through techniques like automated scanning or manual 
+testing and tools like ping and netcat.  Active recon is generally faster and more
+ accurate, but riskier because it creates more noise within a system and has a higher
+ chance of being detected.
+
+
+Passive reconnaissance gathers information without directly interacting with systems,
+ using tools such as Wireshark and Shodan and methods such as OS fingerprinting to gain information. 
